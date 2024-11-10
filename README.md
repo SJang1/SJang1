@@ -8,8 +8,11 @@ I am doing random stuffs.
 ### 😄 Pronouns
 - She/Her
 
-### 📖 I’m studying at ...
-- Student @ [Woosong University](https://www.wsu.ac.kr)
+### 📖 I studied at ...
+- Mechanical Department @ [Yonsan Technical High School](https://yongsan-th.sen.hs.kr)
+
+### 📖 I am studying at ...
+- Railway Software Major @ [Woosong University](https://www.wsu.ac.kr)
 
 ### ✏ What can I do?
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
