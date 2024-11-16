@@ -28,6 +28,10 @@ I am doing random stuffs.
 - [Number counter for petition of kicking yoon out of president](https://kick-yoon.com) - Built with Cloudflare Workers, Pages, D1
 - [Fediverse(Mastodon, Misskey) Status Check Website for Koreans](https://fediverses.kr) - Built with Cloudflare Pages
 
+## Places/Things I worked on
+- [Damoang Community](https://damoang.net) Developing Support - 2024.07.14 ~ current
+- GB.Kay VPN Server Admin - 2019.05.03 ~ 2019.09.18
+
 ## 💬 Ask me about anything!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjang@sjang.xyz) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SJang_a)
 
