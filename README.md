@@ -21,7 +21,7 @@ I am doing random stuffs.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### The awards I got
-- Will be awarded for something near soon - keep an eye on it!
+- KISA & CJ OliveNetworks White Hat Together Season 3 : 3rd place Excellence Award
 
 ## My projects I want to show you
 - [Covid-19 Vaccine Macro for Koreans (Currently Private)](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro) - Built with Python
