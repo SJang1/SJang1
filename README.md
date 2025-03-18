@@ -33,6 +33,7 @@ I am doing random stuffs.
 - [unpaid project] Team Sinabeuro Developing Team - 2025.02.22 ~ current
 - [unpaid project] [Damoang Community](https://damoang.net) Developing Support - 2024.07.14 ~ current
 - GB.Kay VPN Server Admin - 2019.05.03 ~ 2019.09.18
+- WebWizard club president at Woosong University - 2025.03 ~ current
 
 ## 💬 Ask me about anything!
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjang@sjang.xyz) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/SJang_a) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/sjang.dev)
