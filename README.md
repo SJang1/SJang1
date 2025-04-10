@@ -11,7 +11,7 @@ I am doing random stuffs.
 ## What can I do?
   | Language | proficiency | Main thing made |
   |:---:|:---:|:---:|
-  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Well-known | [Covid-19 Vaccine Macro for Koreans](https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro) |
+  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Well-known | [Covid-19 Vaccine Macro for Koreans](https://web.archive.org/web/20221006224721/https://github.com/SJang1/2021-korea-covid-19-remaining-vaccine-macro) |
   | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | Well-known | My github repositories |
   | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | Well-known | My Servers |
   | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | Well-known | My Servers |
@@ -31,8 +31,8 @@ I am doing random stuffs.
 
 ## Places/Things I worked on
 - WebWizard club president at Woosong University - 2025.03 ~ current
-- [unpaid project] Team Sinabeuro Developing Team - 2025.02.22 ~ current
-- [unpaid project] [Damoang Community](https://damoang.net) Developing Support - 2024.07.14 ~ current
+- Team Sinabeuro Developing Team - 2025.02.22 ~ current
+- [Damoang Community](https://damoang.net) Developing Support - 2024.07.14 ~ current
 - GB.Kay VPN Server Admin - 2019.05.03 ~ 2019.09.18
 
 ## 💬 Ask me about anything!
@@ -40,10 +40,6 @@ I am doing random stuffs.
 
 ## Want to sponsor me?
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SJang0us)
-
-## Am I looking for a job?
-**YES!** Contact me by an [email](mailto:sjang@sjang.xyz) if you are looking me to work for you!
-
 
 ## Date Updated
 2025-03-18 15:15 KST
