@@ -32,7 +32,6 @@ I am doing random stuffs.
 ## Places/Things I worked on
 - WebWizard club president at Woosong University - 2025.03 ~ current
 - Team Sinabeuro Developing Team - 2025.02.22 ~ current
-- [Damoang Community](https://damoang.net) Developing Support - 2024.07.14 ~ current
 - GB.Kay VPN Server Admin - 2019.05.03 ~ 2019.09.18
 
 ## 💬 Ask me about anything!
