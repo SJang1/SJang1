@@ -8,19 +8,22 @@ I am doing random stuffs.
 ### 😄 Pronouns
 - She/Her
 
-## What can I do?
-  | Language | proficiency | Main thing made |
+## What did I do?
+  | Project | Language | What |
   |:---:|:---:|:---:|
-  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | Known | [Covid-19 Vaccine Macro for Koreans](https://web.archive.org/web/20221006224721/https://github.com/SJang1/2021-korea-covid-19-remaining-vaccine-macro) |
-  | ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) | Well-known | My github repositories |
-  | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | Known | My Servers |
-  | ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) | Known | My Servers |
-  | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | Well-known | My Servers |
-  | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | Known | [Fediverse(Mastodon, Misskey) Status Check](https://fediverses.kr) |
-  | ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) | Known | My Servers |
-
-## What am I learning?
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)([![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#) NextJS ExpressJS ETC
+  | [SiliconBeest](https://siliconbeest.sjang.dev) | Typescript, Vue | Fediverse Software simmilar to Mastodon or Misskey, with my own implentation with Mastodon API support. |
+  | COVID-19 Remaining Vaccine Macro (S.Korea) | Python | The program that catches remaining vaccine for you. |
+  | [Thine](https://thine-tea.com) Tea Cafe website | Typescript, Vue, Flutter | A website for the Tea Cafe, named Thine. |
+  | [Kurry Mastodon Server](https://kurry.social) | Ubuntu, Vultr, Hetzner, S3, Docker | A Fediverse server - with using Mastodon - for Korean Furries. |
+  | [KCrew](https://apps.apple.com/us/app/k크루/id6757957574) | Flutter, Xcode, Apple Developer, Google Play | An app that helps Korail Crews to know what they are today's schedule. |
+  | [cfd-yt](https://yt.sjang.dev) | Typescript, Vue, CloudFlare Workers, Docker, Container | An Serverless edge computing service that caches Youtube Videos. |
+  | SPOS | Flutter, Typescript | An app fot the cafes and restaurants to manage their orders. |
+  | [ha-gemini-live](https://github.com/SJang1/ha-gemini-live), [ha-openai-realtime](https://github.com/SJang1/ha-openai-realtime) | Python | Home Assistant Intergration that can interact with you by voice, live, using websockets so you can manage your home only with your voice, without delay. |
+  | kick-yoon | Python, Typescript | A website that counts the past president, Yoon Suk Yeol's impeachment petition count and giving API use of it |
+  | mahjong-cpp | C++ | Recreating mahjong with C++ |
+  | disday-net | Javascript | A CloudFlare Workers website that gives full-user-experience for the community |
+  | coupang-stock-checker | Python | Bot for checking Coupang's stock and send user telegram alert with direct buy link so user can buy products as soon as they restock or someone cancel the delivery. |
+  
 
 ## The awards I got
 - KISA & CJ OliveNetworks White Hat Together Season 3 : 3rd place Excellence Award
@@ -39,7 +42,7 @@ I am doing random stuffs.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjang@sjang.xyz) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/sjang.dev)
 
 ## Want to sponsor me?
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SJang0us)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SJang0us) [Github Sponsers](https://github.com/sponsors/SJang1)
 
 ## Date Updated
 2026-03-10 11:30 KST
