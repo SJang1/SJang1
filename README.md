@@ -8,7 +8,7 @@ I am doing random stuffs.
 ### 😄 Pronouns
 - She/Her
 
-## What did I do?
+## What did I do (as an open source project)
   | Project | Language | What |
   |:---:|:---:|:---:|
   | [SiliconBeest](https://siliconbeest.sjang.dev) | Typescript, Vue | Fediverse Software simmilar to Mastodon or Misskey, with my own implentation with Mastodon API support. |
