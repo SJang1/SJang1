@@ -9,8 +9,9 @@ I am doing random stuffs.
 - She/Her
 
 ## What did I do (as an open source project)
-  | Project | Language | What |
+  | Project | Language/Infra | What? |
   |:---:|:---:|:---:|
+  | WSU Infra | (Cisco), CINC, typescript | Making a dead server which hasn't been used over few years to be useable and open for students just like aws. |
   | [SiliconBeest](https://siliconbeest.sjang.dev) | Typescript, Vue | Fediverse Software simmilar to Mastodon or Misskey, with my own implentation with Mastodon API support. |
   | COVID-19 Remaining Vaccine Macro (S.Korea) | Python | The program that catches remaining vaccine for you. |
   | [Thine](https://thine-tea.com) Tea Cafe website | Typescript, Vue, Flutter | A website for the Tea Cafe, named Thine. |
